@@ -154,10 +154,8 @@ let g:quicktex_math = {
     \'mod'   : '/ ',
     \
 \'Section: Functions' : 'COMMENT',
-    \'to'     : '\to ',
     \'mapsto' : '\mapsto ',
     \'comp'   : '\circ ',
-    \'of'     : "\<BS>(<+++>) <++>",
     \'sin'    : '\sin{<+++>} <++>',
     \'cos'    : '\cos{<+++>} <++>',
     \'tan'    : '\tan{<+++>} <++>',
